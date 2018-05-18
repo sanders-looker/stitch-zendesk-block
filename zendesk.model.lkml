@@ -1,4 +1,4 @@
-connection: "stitch_vandelay"
+connection: "dwh"
 
 # include all the views
 include: "*.view"
@@ -151,6 +151,7 @@ explore: users {
   }
 }
 
+####
 explore: groups {}
 
 explore: tag_types {}
