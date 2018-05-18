@@ -1,5 +1,5 @@
 view: organizations {
-  sql_table_name: amil_zendesk.organization ;;
+  sql_table_name: amil_zendesk.organizations ;;
 
   dimension: id {
     primary_key: yes
